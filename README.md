@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new Hybrid Framework using MCP Server and Selenium**
+- 💼 I'm currently working on: **💻 AEM Website testing,Developing a new Hybrid Framework using MCP Server and Selenium**
 - 🌱 I'm currently learning: **Automation Testing, Performance testing using Jmeter**
 - 💬 Ask me about: **Incident Management, Manual & AEM Websites Testing, Microservices testing, Gen AI, Agentic AI, Business Continuity Planning and Tetsing**
 - ⚡ Fun fact: **I love to explore and build new things with AI**
