@@ -24,9 +24,39 @@
 - 💬 Ask me about: **Incident Management, Manual & AEM Websites Testing, Microservices testing, Gen AI, Agentic AI, Business Continuity Planning and Tetsing**
 - ⚡ Fun fact: **I love to explore and build new things with AI**
 
- **<h3 align="left">Skills</h3>**
+ <h3 align="left">Skills</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px">  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="28" alt="Playwright" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="28" alt="Selenium" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="28" alt="Notepad++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"><img src="https://img.shields.io/github/stars/n8n-io/n8n&logoColor=white" height="28" alt="n8n" style="margin-right: 4px"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" height="28" alt="Splunk" style="margin-right: 4px"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="28" alt="JIRA" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" height="28" alt="Java">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" height="28" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="28" alt="MySQL">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" height="28" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" height="28" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" height="28" alt="Playwright">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square" height="28" alt="Selenium">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square" height="28" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="28" alt="Postman">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white&style=flat-square" height="28" alt="Notepad++">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" height="28" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" height="28" alt="Supabase">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="28" alt="TypeScript">
+  <img src="https://img.shields.io/badge/n8n-1ABC9C?logo=n8n&logoColor=white&style=flat-square" height="28" alt="n8n">
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat-square" height="28" alt="Splunk">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" height="28" alt="Jira">
+
+  <!-- New badges -->
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white&style=flat-square" height="28" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Claude-FF9900?logo=stability-ai&logoColor=white&style=flat-square" height="28" alt="Claude">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white&style=flat-square" height="28" alt="Blogger">
+  <img src="https://img.shields.io/badge/Gemini-0099FF?logo=google&logoColor=white&style=flat-square" height="28" alt="Gemini">
+  <img src="https://img.shields.io/badge/Copilot-6CC644?logo=github&logoColor=white&style=flat-square" height="28" alt="Copilot">
+  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-FF0000?logo=adobe&logoColor=white&style=flat-square" height="28" alt="Adobe Experience Manager">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" height="28" alt="Swagger">
+  <img src="https://img.shields.io/badge/Counter-Strike-1E90FF?style=flat-square" height="28" alt="Counter-Strike">
+  <img src="https://img.shields.io/badge/COD-000000?style=flat-square&logoColor=white" height="28" alt="Call of Duty">
+  <img src="https://img.shields.io/badge/Karate-DSL-5C2D91?style=flat-square&logo=karate&logoColor=white" height="28" alt="Karate DSL">
+  <img src="https://img.shields.io/badge/Gherkin-5C4D7D?style=flat-square&logo=cucumber&logoColor=white" height="28" alt="Gherkin">
+</div>
 
 
 
