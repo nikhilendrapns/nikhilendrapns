@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white&style=flat-square" height="28" alt="Notepad++">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" height="28" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" height="28" alt="Supabase">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="28" alt="TypeScript">
   <img src="https://img.shields.io/badge/n8n-1ABC9C?logo=n8n&logoColor=white&style=flat-square" height="28" alt="n8n">
   <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat-square" height="28" alt="Splunk">
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" height="28" alt="Jira">
